@@ -1,0 +1,28 @@
+
+#include <stdio.h>
+int main()
+{
+int a,b;
+a=20;
+b=15;
+
+printf("demonstration relational operation");
+printf("a==b%d\n",a==b);
+
+printf("demonstration relational operation");
+printf("a!=b%d\n",a!=b);
+
+printf("demonstration relational operation");
+printf("a<b%d\n",a<b);
+
+printf("demonstration relational operation");
+printf("a>b%d\n",a>b);
+
+printf("demonstration relational operation");
+printf("a<=b%d\n",a<=b);
+
+printf("demonstration relational operation");
+printf("a>=b%d\n",a>=b);
+
+    return 0;
+}
